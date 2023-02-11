@@ -59,6 +59,8 @@ let settings = PlaySettings.shared
             return "D64AP"
         case "iPhone15,3":
             return "D74AP"
+        case "iPhone16,3":
+            return "D84AP"
         default:
             return "J320xAP"
         }
